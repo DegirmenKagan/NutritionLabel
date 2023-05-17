@@ -84,3 +84,7 @@ For example i gave html font-size 16 so, (16 * 0.85) = 13.6px*/
   font-weight: 700;
   margin: -7px -2px;
 }
+
+.right {
+  justify-content: flex-end;
+}
